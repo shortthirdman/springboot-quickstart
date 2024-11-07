@@ -1,5 +1,8 @@
-# springboot-quickstart
+# Spring Boot Quickstart
+
 Spring Boot QuickStart Examples
+
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/shortthirdman/springboot-quickstart/feature%2Fsecurity?label=feature%2Fsecurity) ![GitHub Created At](https://img.shields.io/github/created-at/shortthirdman/springboot-quickstart?logo=springboot&label=Spring%20Boot%20Quickstart) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/springboot-quickstart) ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/shortthirdman/springboot-quickstart?type=file&extension=java) ![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/springboot-quickstart)
 
 
 ### Reference Documentation
